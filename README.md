@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jim
-- 👀 I’m interested in Python, Machine learning, Blockchain and all things data
+- 👀 I’m interested in Smart Contract Research
 - 🌱 I’m currently learning Blockchain development
 - 📫 How to reach me: jmkamau08@gmail.com
 
